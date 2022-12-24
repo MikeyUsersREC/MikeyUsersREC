@@ -14,6 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MikeyUsersREC&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MikeyUsersREC&icon=2&color=11)](https://visitcount.itsvg.in)
 
