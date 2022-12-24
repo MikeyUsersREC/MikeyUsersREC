@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=MikeyUsersREC&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MikeyUsersREC&icon=2&color=11)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=mikeyusersrec)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ermcorp) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ermbot) 
