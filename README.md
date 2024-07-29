@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ERM.<br>🌱 I’m learning Python, JavaScript, Java and React.<br>💬 Ask me about Discord bots, Python and APIs!<br>⚡ Fun fact: I've been learning Python for 2 years.
+🔭 I’m currently working on ERM.<br>🌱 I’m learning Python, JavaScript, Java and React.<br>💬 Ask me about Discord bots, Python and APIs!<br>⚡ Fun fact: I've been learning Python for 4 years.
 
 
 ## 🌐 Socials:
