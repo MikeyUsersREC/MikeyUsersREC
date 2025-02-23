@@ -1,5 +1,5 @@
 # 💫 Info
-🔭 I’m currently working on ERM.<br>🌱 I’m learning Python, Golang and JavaScript. <br>💬 Ask me about Go, Python and APIs!<br>⚡ I've been learning Python for 5 years, and Go for almost a year.
+🔭 I operate ERM, which has upwards of 50,000 unique concurrent users per month. <br>🌱 I utilise Python, Golang and JavaScript. <br>⚡ I've been learning Python for 5 years, and Go for almost a year.
 
 
 # 🌐 Socials
