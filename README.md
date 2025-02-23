@@ -1,8 +1,8 @@
- # 💫 Info
+# 💫 Info
 🔭 I’m currently working on ERM.<br>🌱 I’m learning Python, Golang and JavaScript. <br>💬 Ask me about Go, Python and APIs!<br>⚡ I've been learning Python for 5 years, and Go for almost a year.
 
 
-## 🌐 Socials
+# 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.com/users/1165311055728226444) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14820205)
 
 # 💻 Technologies
